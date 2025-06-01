@@ -4,7 +4,7 @@
 #variable naming rules =>
 #variable names cannot be a keyword
 #variable names cannot start with a number
-#variable names can only contain alpha-numeric characters, underscores and dollar sign
+#variable names can only contain alpha-numeric characters, underscores
 
 name = "Madanmohan"
 print(name)
