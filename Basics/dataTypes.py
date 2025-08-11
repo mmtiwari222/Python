@@ -1,4 +1,8 @@
-#Data types in Python
+# Data types - In Python A data type defines the kind of value a variable can hold and the operations that can be performed on it.
+# In Python, variables do not need explicit type declarations — Python is dynamically typed.
+# The type of a value is decided at runtime.
+
+
 # 1. String - text
 # 2. Integer - number
 # 3. Float - decimal
@@ -8,6 +12,7 @@
 # 7. tuple - tuple of items
 # 8. set - set of items
 # 9. dictionary - collection of key-value pairs
+# 10. NoneType — Represents the absence of a value
 
 # Python is a case-sensitive programming language
 # Python is a dynamically typed programming language
@@ -25,6 +30,7 @@ print([1, 2, 3]) #list
 print((1, 2, 3)) #tuple 
 print({1, 2, 3}) #set
 print({"name": "John", "age": 25}) #dict
+x = None # (None Type)
 
 # type() => gives the data type of the variable
 print(type(4))
