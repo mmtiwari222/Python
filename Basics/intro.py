@@ -13,3 +13,9 @@
 # 1. Easy to learn
 # 2. Proximity with Maths
 # 3. Community
+
+# Python is a case-sensitive programming language
+# Python is a dynamically typed programming language
+# Python is an interpreted programming language
+# Python is a multi-paradigm programming language
+# Python is a high-level programming language

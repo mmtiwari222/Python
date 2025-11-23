@@ -14,11 +14,6 @@
 # 9. dictionary - collection of key-value pairs
 # 10. NoneType — Represents the absence of a value
 
-# Python is a case-sensitive programming language
-# Python is a dynamically typed programming language
-# Python is an interpreted programming language
-# Python is a multi-paradigm programming language
-# Python is a high-level programming language
 
 # examples of data types
 print(4)  # int
