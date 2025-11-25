@@ -2,16 +2,21 @@
 # In Python, variables do not need explicit type declarations — Python is dynamically typed.
 # The type of a value is decided at runtime.
 
-
-# 1. String - text
+# Neumric data types: - Single value
 # 2. Integer - number
 # 3. Float - decimal
 # 4. Boolean - true or false
 # 5. complex - complex number
-# 6. list - list of items
-# 7. tuple - tuple of items
-# 8. set - set of items
-# 9. dictionary - collection of key-value pairs
+
+# Sequence data types: - Multiple values - ordered collection - accessed by index
+# 1. String - sequence of characters - immutable
+# 6. list - list of items - mutable
+# 7. tuple - tuple of items - immutable
+
+
+# 8. set - set of items - unordered collection of unique items - mutable
+
+# 9. dictionary - collection of key-value pairs - mutable - 
 # 10. NoneType — Represents the absence of a value
 
 
